@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Joshua Colman 👋 (J-Colman)
 
-<!--
-**J-Colman/J-Colman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently a 21-year-old first-year Computer Science Undergraduate Student at the University of the West of England (UWE).
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I organise my projects into a few categories:
+
+### 🎓 University Coursework
+<details>
+  <summary>View University Projects</summary>
+  <br/>
+    
+  * 
+
+</details>
+
+### 💡 Personal Projects
+<details>
+  <summary>View Personal Projects</summary>
+  <br/>
+  
+  *
+    
+</details>
+
+### 🔬 Concept Demonstrations
+<details>
+  <summary>View Concept Demos</summary>
+  <br/>
+
+  *
+    
+</details>
+
+## Skills Snapshot
+* **Languages:** 
+* **Concepts:** 
+* **Tools:** 
